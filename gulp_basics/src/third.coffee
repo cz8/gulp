@@ -1,0 +1,3 @@
+# coffee script
+myThirdFunciton = ->
+'third'
